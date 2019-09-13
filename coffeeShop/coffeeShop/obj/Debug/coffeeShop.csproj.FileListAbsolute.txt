@@ -1,0 +1,10 @@
+D:\dot-net-serice-tutorial\Day2\Day2\C--Simple-coffee-shop-project\coffeeShop\coffeeShop\bin\Debug\coffeeShop.exe.config
+D:\dot-net-serice-tutorial\Day2\Day2\C--Simple-coffee-shop-project\coffeeShop\coffeeShop\bin\Debug\coffeeShop.exe
+D:\dot-net-serice-tutorial\Day2\Day2\C--Simple-coffee-shop-project\coffeeShop\coffeeShop\bin\Debug\coffeeShop.pdb
+D:\dot-net-serice-tutorial\Day2\Day2\C--Simple-coffee-shop-project\coffeeShop\coffeeShop\obj\Debug\coffeeShop.csprojAssemblyReference.cache
+D:\dot-net-serice-tutorial\Day2\Day2\C--Simple-coffee-shop-project\coffeeShop\coffeeShop\obj\Debug\coffeeShop.home.resources
+D:\dot-net-serice-tutorial\Day2\Day2\C--Simple-coffee-shop-project\coffeeShop\coffeeShop\obj\Debug\coffeeShop.Properties.Resources.resources
+D:\dot-net-serice-tutorial\Day2\Day2\C--Simple-coffee-shop-project\coffeeShop\coffeeShop\obj\Debug\coffeeShop.csproj.GenerateResource.cache
+D:\dot-net-serice-tutorial\Day2\Day2\C--Simple-coffee-shop-project\coffeeShop\coffeeShop\obj\Debug\coffeeShop.csproj.CoreCompileInputs.cache
+D:\dot-net-serice-tutorial\Day2\Day2\C--Simple-coffee-shop-project\coffeeShop\coffeeShop\obj\Debug\coffeeShop.exe
+D:\dot-net-serice-tutorial\Day2\Day2\C--Simple-coffee-shop-project\coffeeShop\coffeeShop\obj\Debug\coffeeShop.pdb
